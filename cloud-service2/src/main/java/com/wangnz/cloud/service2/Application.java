@@ -1,4 +1,4 @@
-package com.wangnz.springcloud.helloworld;
+package com.wangnz.cloud.service2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

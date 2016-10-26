@@ -4,7 +4,7 @@
  * @author lzhoumail@126.com/zhouli
  * Git http://git.oschina.net/zhou666/spring-cloud-7simple
  */
-package com.wangnz.springcloud.helloworld.model;
+package com.wangnz.cloud.service2.model;
 
 
 public class User {

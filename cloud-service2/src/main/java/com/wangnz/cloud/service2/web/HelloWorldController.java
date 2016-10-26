@@ -1,4 +1,4 @@
-package com.wangnz.springcloud.helloworld.web;
+package com.wangnz.cloud.service2.web;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.wangnz.springcloud.helloworld.model.User;
+import com.wangnz.cloud.service2.model.User;
 
 @RestController
 public class HelloWorldController {
